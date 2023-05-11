@@ -15,9 +15,9 @@ class AddCoursesSeoPageContent < ActiveRecord::Migration[5.1]
                     "Personal placement mentorship + Ongoing guidance after course completion + Opportunity to interact with experts"], 
                     :background_image => "course_page/banner/bannernew.png", 
                     :footer => "Next Batch Starts  ",
-                    :title => "Speak to a Counsellor",
-                    :submit_btn_step1_text => "Let's Continue",
-                    :submit_btn_step2_text => "Let's Join"},
+                    :title => "Register for Scaler Data Science Entrance Test",
+                    :submit_btn_step1_text => "Register for the Test",
+                    :submit_btn_step2_text => "Register for the Test"},
                 :briefing => {:heading => "<h2>Why <b><span class=\"highlight\">Data Science?</span></b></h2>", 
                     :places => [{:className => "mc", :name => "<h3><b>What is Data Science?</b></h3>", :desc => "In a nutshell,  it involves extracting 
                     actionable insights from raw data. Various scientific methods, algorithms, and processes are used to extract insights from 
